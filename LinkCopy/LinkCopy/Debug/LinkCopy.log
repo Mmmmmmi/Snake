@@ -1,0 +1,3 @@
+﻿  test.c
+e:\mydata\data\study\bit\homework\linkcopy\linkcopy\test.c(45): warning C4090: “=”: 不同的“const”限定符
+  LinkCopy.vcxproj -> E:\MyData\Data\study\bit\homework\LinkCopy\Debug\LinkCopy.exe
